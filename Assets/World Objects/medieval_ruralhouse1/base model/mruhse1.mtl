@@ -1,0 +1,15 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D v2.36
+# Time: Fri Apr 18 01:48:19 2008
+# num_materials: 1
+
+newmtl mruhse1
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.913726 1.000000
+Ks 0.823529 0.913726 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd mruhse1.jpg
+
+# num_materials: 1
